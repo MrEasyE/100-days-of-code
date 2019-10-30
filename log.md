@@ -1,11 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 1: October 30th, 2019
+**Today's progress**: Completed the second FCC survey project. Another ugly project. Apparently I'm not a designer. (Lots of opportunity for improvement.)
+
+**Thoughts:** Need to ensure that working area is free of distraction. The small stuff is easy to mess up when you're getting bugged with distractions. The cat for example.
+
+CSS is a weak point for me. More time with the responsive stuff needed. Less time with the bootstrap stuff.
+
+**Total time:** 2hrs with distraction and messing with the CSS.
+
+**Link to work:** [Survey](https://mreasye.github.io/SurveyForm/)
+
 ### Day 0: October 29th, 2019
 **Today's progress**: Opened text editor for first time in a month. Completed Freecode Camps 'Tribute' project (although it is still ugly).
 
 **Thoughts:** Feels good to open an editor again. Why did I stop? 
 
-*** Total time: *** 2.5h for setting up project, setting up accounts (github, twitter, freecodecamp, email, etc). Probably spent 1.5 hr actually looking at the editor.
+**Total time:** 2.5h for setting up project, setting up accounts (github, twitter, freecodecamp, email, etc). Probably spent 1.5 hr actually looking at the editor.
+
+**Link to work:** [Tribute](https://mreasye.github.io/TributePage/)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
