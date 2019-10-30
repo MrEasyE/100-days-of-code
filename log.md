@@ -5,6 +5,8 @@
 
 **Thoughts:** Feels good to open an editor again. Why did I stop? 
 
+*** Total time: *** 2.5h for setting up project, setting up accounts (github, twitter, freecodecamp, email, etc). Probably spent 1.5 hr actually looking at the editor.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
