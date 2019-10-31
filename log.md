@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: October 31th, 2019
+**Today's progress**: Moved over to React toady. Played with FizzBuzz and tried to make it look decent and play nice on the web. Based on the reccomendations from @CoderFoundry [Youtube Video with the Recomendation](https://t.co/c6Bf4WE5Cy?amp=1).
+
+React app is working and it was nice to jump back into the React world after a break. Really missed it.
+
+**Thoughts:** Still not a designer apparently. Really missed React after such a long break. Kinda odd seeing the big differences after playing in Angular land.
+
+**Total time:** Spent a bunch of time playing with this. Probably 3+ hours today. Feels longer based on the interuptions.
+
+**Link to work:** [Pretty FizzBuzz](https://mreasye.github.io/pretty-fizz-buzz/)
+
 ### Day 1: October 30th, 2019
 **Today's progress**: Completed the second FCC survey project. Another ugly project. Apparently I'm not a designer. (Lots of opportunity for improvement.)
 
