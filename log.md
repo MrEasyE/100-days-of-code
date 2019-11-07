@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3-6: November 4th - 6th, 2019
+** Today's proress**: More time playing in React. Workig on building a conway's game of life while on vacation.
+
+I've built out the board and I'm changing the cell's, but currently I'm getting an undefined error. Strugging to find the error right now. Need a break.
+
+**Thoughts:** Longer sessions are better. Pulled 8 hrs today and it was great. Yesterday and the day before were more difficult becaues of how short/distracted they were.
+
+**Total time:** 10+ hours.
+
+**Link to work:** N/A. Still not working properly. Update to come.
+
 ### Day 2: October 31th, 2019
 **Today's progress**: Moved over to React toady. Played with FizzBuzz and tried to make it look decent and play nice on the web. Based on the reccomendations from @CoderFoundry [Youtube Video with the Recomendation](https://t.co/c6Bf4WE5Cy?amp=1).
 
