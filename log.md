@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: Novmember 8th, 2019
+**Today's progress**: A lot more effort went into React. Trying to better understand the life cycle methods and looked at React Hooks. Decided to put that off for another day. I did spend some time trying to understand why we want Hooks rather than Classes, but I couldn't find a great reason. Just lots of Medium articles on HOW to use them.
+
+**Thoughts:** React is pretty great when you're using it properly. Ran into two rabbit holes today and both times there was an easy and obvious way to solve the problem. More time in is needed I suppose.
+
+**Total time:** 5+ hours.
+
+**Link to work** [Conway's Game of Life](https://mreasye.github.io/gameoflife/)
+
 ### Day 3-6: November 4th - 6th, 2019
-** Today's proress**: More time playing in React. Workig on building a conway's game of life while on vacation.
+** Today's proress**: More time playing in React. Working on building a conway's game of life while on vacation.
 
 I've built out the board and I'm changing the cell's, but currently I'm getting an undefined error. Strugging to find the error right now. Need a break.
 
