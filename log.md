@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 7: November 8th, 2019 Continued
+**Today's progress:** The best progress late today has been the habit of opening up the text editor. Once I completed my study/work yesterday, I was pulled to open up the editor again and continue building.
+
+Opened up FCC's project list and built out their React Quote Generator in about an hour including styling. This was a big win because the style actually looks 'ok' and the quote generator is working just fine.
+
+**Notes:** My internet connction went down and I didn't grab the technical requirements or tests that the app needs to pass from FCC. Right now it isn't setup to pass anything. It _IS_ working though. I'll come back and update it to pass the tests once I have an internet connection.
+
+**Thoughts:** Built out the project in very short order. Some success there. The design of the generator is actually decent and functional. This is a big win.
+
+The other massive win is the habit. This is the most exciting win so far as it relates to the #100DayCodeChallenge.
+
+Nifty.
+
+**Total time:** 2 hours if you include reading code camp's stuff and picking a project.
+
+**Link to work** [Random Quote Generator](https://mreasye.github.io/randomquotegen/)
+
 ### Day 7: Novmember 8th, 2019
 **Today's progress**: A lot more effort went into React. Trying to better understand the life cycle methods and looked at React Hooks. Decided to put that off for another day. I did spend some time trying to understand why we want Hooks rather than Classes, but I couldn't find a great reason. Just lots of Medium articles on HOW to use them.
 
