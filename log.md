@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 9: November 12, 2019
+**Today's progress:** Building out the FCC calculator in React. Had an opportunity to play with the CSS grid layout a bit for the buttons layout. Really digging that.
+
+**Notes:** Working in an airport is not that difficult provided you can get a decent desk/wifi.
+
+**Thoughts:** It's been a wild couple of days. Stuck in a car and then stuck at the airport for a day. Really messed with my habit, but luckily today was just 15 hrs at the airport with good wifi and a desk. 💪
+
+**Total time:** 5+ hours.
+
+**Link to work:** N/A Not completed.
+
+### Day 8: November 9th, 2019
+**Today's progress:** No projects today, but I spent a lot of time in a text editor. Learned a bit about D3 today with FCC. D3 is pretty neat.
+
+**Notes:** The habit is definately starting to stick.
+
+**Thoughts:** Study can be just as much fun as projects. Need to have a decent balance between the two. I opened up the FCC algorim challenges today and even the first challenge was out of my league. I understand the pen & paper logic of the 1st challenge, but implmentation is proving difficult. Not so much because I can't do it, but because I get stuck trying to optimize the code too early.
+
+I suppose I can just "make it work" and then go back afterwards and optimize.
+
+**Total time:** 5 hrs
+
+**Link to work:** N/A today. No project.
+
 ### Day 7: November 8th, 2019 Continued
 **Today's progress:** The best progress late today has been the habit of opening up the text editor. Once I completed my study/work yesterday, I was pulled to open up the editor again and continue building.
 
